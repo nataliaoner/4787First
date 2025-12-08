@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hello, Devops on branch develop!'
+echo 'hello, Devops world!'
